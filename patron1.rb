@@ -9,6 +9,6 @@ num.times do |i|
     else
         print "."
     end
-    (i.even?) ? (print "*") : (print ".")
+    # (i.even?) ? (print "*") : (print ".")
 end
 
